@@ -7,5 +7,5 @@ This script is based on Scrapy, so to run this, you need python and scrapy insta
 
 To run this script,
 
-scrappy crawl all -o filename.csv
+scrapy crawl all -o filename.csv
 
